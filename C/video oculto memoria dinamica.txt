@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=cNB1arCvVOQ&ab_channel=UTNFRA
+
+Segmentos de memoria: 
+
+• Segmento de codigo: Se guardan las instrucciones en lenguaje maquina de la aplicacion.
+
+• Memoria estatica: Se guardan las variables globales.
+
+•Segmento de pila: Cada vez q se llama a una funcion, se guarda alli junto con su informacion, tales como 
+los llamados a las funciones, sus parametros, las variables locales y/o otra info necesaria para q el programa funcione.
+
+• Segmento de heap: Se guardan las variables creadas de forma dinamica.
+
+• Espacio libre.

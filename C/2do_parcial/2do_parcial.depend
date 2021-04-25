@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1607264646 source:c:\users\note\downloads\ejs\c\2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"utn.h"
+	"Controller.h"
+	"Concursantes.h"
+
+1607488111 c:\users\note\downloads\ejs\c\2do_parcial\linkedlist.h
+	"LinkedList.c"
+
+1607488111 c:\users\note\downloads\ejs\c\2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607488169 c:\users\note\downloads\ejs\c\2do_parcial\concursantes.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Concursantes.c"
+
+1606328053 c:\users\note\downloads\ejs\c\2do_parcial\parser.h
+	"parser.c"
+
+1606947267 c:\users\note\downloads\ejs\c\2do_parcial\controller.h
+	"Controller.c"
+
+1606576872 c:\users\note\downloads\ejs\c\2do_parcial\utn.h
+	<stdio.h>
+	"string.h"
+	"Controller.h"
+	"utn.c"
+
+1607514200 c:\users\note\downloads\ejs\c\2do_parcial\concursantes.c
+	<stdlib.h>
+	"Concursantes.h"
+	<string.h>
+
+1607481864 c:\users\note\downloads\ejs\c\2do_parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Concursantes.h"
+
+1607515956 c:\users\note\downloads\ejs\c\2do_parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Concursantes.h"
+	"parser.h"
+	"utn.h"
+
+1606601889 c:\users\note\downloads\ejs\c\2do_parcial\utn.c
+	"utn.h"
+

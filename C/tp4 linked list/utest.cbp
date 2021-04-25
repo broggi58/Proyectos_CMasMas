@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="utest" />
+		<Option execution_dir="/home/alumno/Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/src/" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/utest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../../../arraylist" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/utest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../../../../arraylist" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/inc/LinkedList.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/src/LinkedList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/Employee.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/addNodeTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/addTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/clearTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/cloneTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/containsAllTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/containsTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/deleteLinkedListTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/getNodeTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/getTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/indexOfTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/isEmptyTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/lenTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/main_test.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/newTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/popTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/pushTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/removeTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/setTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/sortTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/inc/subListTest.h" />
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/Employee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/addNodeTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/addTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/clearTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/cloneTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/containsAllTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/containsTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/deleteLinkedListTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/getNodeTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/getTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/indexOfTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/isEmptyTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/lenTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/main_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/newTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/popTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/pushTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/removeTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/setTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/sortTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/src/subListTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/utest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Descargas/asd-master (4)/asd-master/linkedlist_cascara_v8/linkedlist_cascara_v8/testing/utest.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

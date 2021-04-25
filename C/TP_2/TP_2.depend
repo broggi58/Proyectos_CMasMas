@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1601592292 source:c:\users\note\downloads\ejs\c\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<float.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1601573388 c:\users\note\downloads\ejs\c\tp_2\utn.h
+	"utn.c"
+
+1601058869 c:\users\note\downloads\ejs\c\tp_2\utn.c
+	"utn.h"
+
+1601566358 c:\users\note\downloads\ejs\c\tp_2\arrayemployees.h
+	"ArrayEmployees.c"
+
+1601592313 c:\users\note\downloads\ejs\c\tp_2\arrayemployees.c
+	"ArrayEmployees.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1599575709 source:c:\users\note\downloads\ejs\c\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+	"InputUsuario.h"
+	"Validaciones.h"
+	"Mostrar.h"
+
+1599842786 c:\users\note\downloads\ejs\c\tp_1\operaciones.h
+	"Operaciones.c"
+
+1599577676 c:\users\note\downloads\ejs\c\tp_1\operaciones.c
+	"Operaciones.h"
+
+1599842786 c:\users\note\downloads\ejs\c\tp_1\inputusuario.h
+	"InputUsuario.c"
+
+1599575263 c:\users\note\downloads\ejs\c\tp_1\inputusuario.c
+	"InputUsuario.h"
+
+1599577677 c:\users\note\downloads\ejs\c\tp_1\validaciones.h
+	"Validaciones.c"
+
+1599575492 c:\users\note\downloads\ejs\c\tp_1\validaciones.c
+	"Validaciones.h"
+
+1599842786 c:\users\note\downloads\ejs\c\tp_1\mostrar.h
+	"Mostrar.c"
+
+1599575709 c:\users\note\downloads\ejs\c\tp_1\mostrar.c
+	"Mostrar.h"
+

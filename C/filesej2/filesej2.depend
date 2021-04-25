@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592356790 source:c:\users\note\downloads\ejs\c\filesej2\main.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+

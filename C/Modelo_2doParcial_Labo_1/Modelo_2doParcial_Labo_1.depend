@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1605915437 source:c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controller.h"
+	"parser.h"
+	"concursantes.h"
+	"utn.h"
+	"LinkedList.h"
+
+1605928478 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\linkedlist.h
+	"LinkedList.c"
+
+1605928765 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\controller.h
+	"LinkedList.h"
+
+1605928860 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\parser.h
+
+1605928741 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\concursantes.h
+
+1605621700 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\utn.h
+	<stdio.h>
+	"string.h"
+	"utn.c"
+
+1605621700 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\utn.c
+	"utn.h"
+
+1605913930 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1605928491 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"controller.h"
+
+1605928741 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+
+1605913339 c:\users\note\downloads\ejs\c\modelo_2doparcial_labo_1\concursantes.c
+	"concursantes.h"
+

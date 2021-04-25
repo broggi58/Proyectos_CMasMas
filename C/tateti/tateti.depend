@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594676617 source:c:\users\note\downloads\ejs\c\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+

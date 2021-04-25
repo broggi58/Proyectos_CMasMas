@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1603068066 source:c:\users\note\downloads\ejs\c\1er_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"utn.h"
+	"arrayMascotas.h"
+	"arrayRazas.h"
+	"Informes.h"
+	"pais.h"
+
+1602455867 c:\users\note\downloads\ejs\c\1er_parcial\utn.h
+	"utn.c"
+
+1602455796 c:\users\note\downloads\ejs\c\1er_parcial\utn.c
+	"utn.h"
+
+1603160902 c:\users\note\downloads\ejs\c\1er_parcial\arraymascotas.h
+	"arrayRazas.h"
+	"pais.h"
+	"arrayMascotas.c"
+
+1603160902 c:\users\note\downloads\ejs\c\1er_parcial\arrayrazas.h
+	"arrayMascotas.h"
+	"pais.h"
+	"arrayRazas.c"
+
+1603651324 c:\users\note\downloads\ejs\c\1er_parcial\arrayrazas.c
+	"arrayMascotas.h"
+	"arrayRazas.h"
+
+1603160902 c:\users\note\downloads\ejs\c\1er_parcial\arraymascotas.c
+	"arrayMascotas.h"
+
+1605614030 c:\users\note\downloads\ejs\c\1er_parcial\informes.h
+	"Informes.c"
+
+1605614040 c:\users\note\downloads\ejs\c\1er_parcial\informes.c
+	"Informes.h"
+
+1602877071 c:\users\note\downloads\ejs\c\1er_parcial\pais.h
+	"arrayMascotas.h"
+	"arrayRazas.h"
+	"pais.c"
+
+1602877333 c:\users\note\downloads\ejs\c\1er_parcial\pais.c
+	"pais.h"
+	"arrayMascotas.h"
+	"arrayRazas.h"
+

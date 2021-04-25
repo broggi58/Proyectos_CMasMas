@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593695476 source:c:\users\note\downloads\ejs\c\punterosej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+

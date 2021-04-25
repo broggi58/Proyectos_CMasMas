@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567631181 source:c:\users\note\downloads\ejs\tpf1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594993571 source:c:\users\note\downloads\ejs\c\tpf1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

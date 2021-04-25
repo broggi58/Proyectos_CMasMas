@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591883181 source:c:\users\note\downloads\ejs\c++\throw test\main.cpp
+	<iostream>
+	"string.h"
+	<stdio.h>
+	"sstream"
+

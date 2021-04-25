@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601292628 source:c:\users\note\downloads\ejs\c\hardcoretest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
